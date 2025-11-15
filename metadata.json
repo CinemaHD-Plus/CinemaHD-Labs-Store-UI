@@ -1,0 +1,5 @@
+{
+  "name": "CinemaHD App Store",
+  "description": "A modern, visually appealing app store interface for CinemaHD applications, built with React and Tailwind CSS. It provides a seamless experience for discovering, filtering, and viewing application details.",
+  "requestFramePermissions": []
+}
